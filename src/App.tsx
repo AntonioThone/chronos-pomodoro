@@ -15,7 +15,7 @@ export function App(){
 
             <Container>
                 <Menu/>
-            </Container>.
+            </Container>
         </>
     )
 }
