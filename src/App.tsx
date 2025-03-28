@@ -13,7 +13,7 @@ export function App(){
                 <Logo/>
             </Container>
 
-            <Container>.
+            <Container>
                 <Menu/>
             </Container>
         </>
