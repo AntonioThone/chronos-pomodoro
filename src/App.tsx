@@ -6,15 +6,29 @@ import {  TimerIcon } from 'lucide-react';
 export function App(){
     return(
         <>
-            <Heading>
-                ola mundo 1
+            <div className='container'>
+                <div className='content'>
+                    <section>LOGO</section>
+                </div>
+            </div>
 
-                <button>
-                    <TimerIcon/>
-                </button>
-            </Heading>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat sequi pariatur facere eveniet reiciendis, dicta vitae quibusdam doloribus nostrum vero nisi officia adipisci quam facilis repudiandae perspiciatis provident quos laborum?
-            </p>
+            <div className='container'>
+                <div className='content'>
+                    <section>LOGO</section>
+                </div>
+            </div>
+
+            <div className='container'>
+                <div className='content'>
+                    <section>LOGO</section>
+                </div>
+            </div>
+
+            <div className='container'>
+                <div className='content'>
+                    <section>LOGO</section>
+                </div>
+            </div>
         </>
     )
 }
