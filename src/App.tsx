@@ -11,7 +11,7 @@ export function App(){
         <>
             <Container>
                 <Logo/>
-            </Container>
+            </Container>.
 
             <Container>
                 <Menu/>
